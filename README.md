@@ -22,14 +22,5 @@ This README outlines the procedure used to create, upload, train, and fine-tune 
 
    - Fine-tuned the Llama 8B Instruct model using LoRA.
 
-## 6. Major Problems Encountered
 
-   - When Colab was used, GPU was exhausted; see attached image
-   - Tried running on my CPU, but my storage space was full
-   - The office server had a CUDA compatibility issue
 
-## 7. Final Goal
-
-   - The model ran successfully on a friend's paid GPU version on Colab.
-
-Thank you for the opportunity; I have indeed extended my knowledge on this subject matter. This interview was worth the attempt. Now, I enjoy the idea of building custom LLM.
